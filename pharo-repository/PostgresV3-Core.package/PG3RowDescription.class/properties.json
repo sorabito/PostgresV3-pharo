@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "FrancoisStephany 8/16/2015 01:00",
+	"super" : "PG3TypedMessage",
+	"category" : "PostgresV3-Core-Messages",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"columnDescriptions"
+	],
+	"name" : "PG3RowDescription",
+	"type" : "normal"
+}

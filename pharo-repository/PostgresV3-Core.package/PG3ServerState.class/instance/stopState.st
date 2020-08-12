@@ -1,0 +1,4 @@
+actions
+stopState
+
+	stopState := true

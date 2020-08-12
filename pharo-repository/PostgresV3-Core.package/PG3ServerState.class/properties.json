@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PostgresV3-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"transitions",
+		"name",
+		"stopState"
+	],
+	"name" : "PG3ServerState",
+	"type" : "normal"
+}

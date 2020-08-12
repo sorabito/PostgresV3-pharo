@@ -1,0 +1,4 @@
+accessing
+typeByte
+
+	self subclassResponsibility

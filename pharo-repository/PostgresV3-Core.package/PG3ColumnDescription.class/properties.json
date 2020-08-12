@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PostgresV3-Core",
+	"classinstvars" : [
+		"converterArray"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"tableId",
+		"columnId",
+		"typeId",
+		"typeSize",
+		"typeModifier",
+		"formatCode"
+	],
+	"name" : "PG3ColumnDescription",
+	"type" : "normal"
+}

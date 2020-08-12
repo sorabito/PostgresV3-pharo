@@ -1,0 +1,2 @@
+writing
+writeDataOn: aStream

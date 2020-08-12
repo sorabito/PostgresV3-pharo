@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "FrancoisStephany 8/16/2015 00:50",
+	"super" : "PG3AuthenticationMessage",
+	"category" : "PostgresV3-Core-Messages",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"salt"
+	],
+	"name" : "PG3AuthenticationMD5Password",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+accessing
+subType
+
+	self subclassResponsibility

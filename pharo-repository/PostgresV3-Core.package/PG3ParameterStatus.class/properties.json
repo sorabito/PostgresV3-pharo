@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "FrancoisStephany 8/16/2015 00:57",
+	"super" : "PG3TypedMessage",
+	"category" : "PostgresV3-Core-Messages",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"value"
+	],
+	"name" : "PG3ParameterStatus",
+	"type" : "normal"
+}

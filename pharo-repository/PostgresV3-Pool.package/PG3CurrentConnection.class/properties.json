@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Notification",
+	"category" : "PostgresV3-Pool",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pool"
+	],
+	"name" : "PG3CurrentConnection",
+	"type" : "normal"
+}

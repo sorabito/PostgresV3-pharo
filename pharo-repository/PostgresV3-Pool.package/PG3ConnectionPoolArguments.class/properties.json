@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PostgresV3-Pool",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"minConnections",
+		"maxConnections",
+		"waitTimeout",
+		"maxFreeConnections"
+	],
+	"name" : "PG3ConnectionPoolArguments",
+	"type" : "normal"
+}

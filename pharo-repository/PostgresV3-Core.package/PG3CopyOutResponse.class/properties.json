@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PG3TypedMessage",
+	"category" : "PostgresV3-Core-Messages",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PG3CopyOutResponse",
+	"type" : "normal"
+}

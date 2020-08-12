@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "FrancoisStephany 8/16/2015 14:28",
+	"super" : "Object",
+	"category" : "PostgresV3-Pool",
+	"classinstvars" : [
+		"instance"
+	],
+	"pools" : [ ],
+	"classvars" : [
+		"Instance"
+	],
+	"instvars" : [
+		"monitor",
+		"freeConnections",
+		"usedConnections",
+		"connectionArguments",
+		"arguments"
+	],
+	"name" : "PG3ConnectionPool",
+	"type" : "normal"
+}

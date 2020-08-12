@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DateAndTime",
+	"category" : "PostgresV3-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "InfinitePast",
+	"type" : "normal"
+}

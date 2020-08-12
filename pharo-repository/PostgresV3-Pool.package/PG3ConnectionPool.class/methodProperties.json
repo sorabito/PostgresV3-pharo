@@ -1,0 +1,28 @@
+{
+	"instance" : {
+		"withConnectionDo:" : "ul 4/14/2010 00:10",
+		"log:" : "ul 4/14/2010 00:08",
+		"freeConnections" : "ul 4/13/2010 23:36",
+		"executeTransaction:" : "klub 6/15/2014 21:38",
+		"releaseSuperfluousFreeConnections" : "ul 8/30/2009 03:01",
+		"createNewConnection" : "kb 9/15/2009 18:02",
+		"currentConnections" : "ul 4/13/2010 23:36",
+		"releaseAllFreeConnections" : "ul 8/30/2009 02:59",
+		"initialize" : "ul 8/30/2009 02:56",
+		"connectionArguments:" : "ul 8/30/2009 03:03",
+		"executeQuery:" : "klub 5/21/2014 16:15",
+		"connectionArguments" : "ul 8/30/2009 03:03",
+		"newListenerConnection" : "klub 9/7/2011 18:32",
+		"releaseConnection:" : "klub 7/31/2011 14:49",
+		"getConnection" : "klub 5/23/2012 13:34",
+		"releaseUsedConnections" : "ul 8/30/2009 03:01",
+		"usedConnections" : "ul 4/13/2010 23:36",
+		"executeQuery:rowClass:" : "klub 6/15/2014 21:38"
+	},
+	"class" : {
+		"startUp:" : "ul 8/30/2009 02:54",
+		"defaultConnectionArguments" : "ul 8/30/2009 02:54",
+		"reset" : "ul 8/30/2009 02:54",
+		"default" : "kb 8/4/2010 20:31"
+	}
+}
