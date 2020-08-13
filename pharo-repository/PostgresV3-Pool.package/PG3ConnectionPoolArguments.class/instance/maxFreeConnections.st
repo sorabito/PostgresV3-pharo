@@ -1,4 +1,0 @@
-accessing
-maxFreeConnections
-
-	^maxFreeConnections

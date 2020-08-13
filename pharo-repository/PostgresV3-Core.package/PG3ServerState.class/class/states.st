@@ -1,4 +1,0 @@
-accessing
-states
-
-	^Notification signal

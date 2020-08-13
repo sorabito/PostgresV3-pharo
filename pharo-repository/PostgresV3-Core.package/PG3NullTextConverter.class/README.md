@@ -1,1 +1,0 @@
-I do the "string conversion" when the automaticStringConversion argument of a connection is false. I don't do anything just return the strings as they are.

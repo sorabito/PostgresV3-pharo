@@ -1,4 +1,0 @@
-accessing
-columnNameDictionary: anIdentityDictionary
-
-	columnNameDictionary := anIdentityDictionary
